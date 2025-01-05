@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything...
 - 📫 contact to email !...
 - 😄 
-- ⚡ Fun fact: 
+- ⚡
 
 <!---
 Mshhhhh/Mshhhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
